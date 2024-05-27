@@ -7,4 +7,4 @@ Node, Express, MongoDB, Mongoose
 React, Material UI
 
 ## How to run the code?
-Please go into frontend and backend directories in the terminal and do `npm run dev` for each of them
+Please go into frontend and backend directories in the terminal and do `npm i` then `npm run dev` for each of them.
